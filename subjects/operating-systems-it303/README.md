@@ -1,5 +1,11 @@
 # 💻 Operating Systems — IT303
 
+<p align="center">
+  <img src="os-dashboard.svg" width="100%">
+</p>
+
+---
+
 [🏠 Batch Home](../../README.md)
 
 ---
