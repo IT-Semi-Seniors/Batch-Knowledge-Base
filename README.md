@@ -26,7 +26,6 @@
 <td align="center" width="180">
 
 ### 🧠
-
 **Kotlin Language**
 
 `IT301`
@@ -38,7 +37,6 @@
 <td align="center" width="180">
 
 ### 📊
-
 **System Analysis**
 
 `IT302`
@@ -50,7 +48,6 @@
 <td align="center" width="180">
 
 ### 🌐
-
 **Advanced Web**
 
 `IT351`
@@ -62,7 +59,6 @@
 <td align="center" width="180">
 
 ### 🗄️
-
 **Advanced Database**
 
 `IT304`
@@ -74,7 +70,6 @@
 <td align="center" width="180">
 
 ### 💻
-
 **Operating Systems**
 
 `IT303`
@@ -96,13 +91,11 @@
 
 <br>
 
-[**📂 OPEN GOOGLE DRIVE →**](YOUR_GOOGLE_DRIVE_LINK_HERE)
+[**📂 OPEN GOOGLE DRIVE →**](https://drive.google.com/drive/folders/1gLaGQ-ddYa4miXarTzekeJMjtwEBImPZ)
 
 <br><br>
 
----
-
-### `LEARN • ORGANIZE • STAY UPDATED`
+`LEARN • ORGANIZE • STAY UPDATED`
 
 **IT SEMI-SENIORS — 2026**
 
