@@ -67,6 +67,7 @@ Submit your answer through the following form:
 
 ## 📌 Notes
 
+📅 Deadline: Wednesday, October 7, 2026.
 - Make sure your answers are clear and well organized.
 - For Assignment 2, use the CPU information from **your own device**.
 - Make sure to explain the concepts, not only provide the values.
