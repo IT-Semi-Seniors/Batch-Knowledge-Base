@@ -1,27 +1,68 @@
 # 💻 Operating Systems — IT303
 
 <p align="center">
-  <img src="os-dashboard.svg" width="100%">
+  <strong>Learn • Understand • Build the Foundation</strong>
 </p>
 
 ---
 
-[🏠 Batch Home](../../README.md)
+## 🧭 Course Navigation
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 📋 All Tasks
+
+View and manage all  
+course assignments.
+
+<br>
+
+**[→ View All Tasks](tasks.md)**
+
+</td>
+
+<td align="center" width="33%">
+
+### 📢 Announcements
+
+Stay updated with the  
+latest news and updates.
+
+<br>
+
+**[→ View Announcements](announcements.md)**
+
+</td>
+
+<td align="center" width="33%">
+
+### 📚 Resources
+
+Access study materials,  
+links and useful resources.
+
+<br>
+
+**[→ View Resources](resources.md)**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📝 All Tasks
+<p align="center">
 
-[📋 View All Tasks](tasks.md)
+`Better Systems` &nbsp; → &nbsp; `Better Future`
 
----
-
-## 📢 Announcements
-
-[📢 View Announcements](announcements.md)
+</p>
 
 ---
 
-## 🔗 Resources
+### 🏠 Batch Navigation
 
-[🔗 View Resources](resources.md)
+**[🏠 Back to Batch Home](../../README.md)**
