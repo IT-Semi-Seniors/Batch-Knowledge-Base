@@ -1,45 +1,109 @@
-# 🎓 IT Semi-Seniors — Batch Knowledge Base
+<div align="center">
 
-> A centralized place for tasks, announcements, resources, and important information for Third-Year IT students.
+# 🎓 IT SEMI-SENIORS
 
----
+### `BATCH KNOWLEDGE BASE`
 
-## 📚 Courses
+**Third-Year IT • 2026**
 
-| Course | Code | Resources |
-|---|---|---|
-| 🧠 Kotlin Language | IT301 | [Open Course](subjects/kotlin-it301.md) |
-| 📊 System Analysis | IT302 | [Open Course](subjects/system-analysis-it302.md) |
-| 🌐 Advanced Web | IT351 | [Open Course](subjects/advanced-web-it351.md) |
-| 🗄️ Advanced Database | IT304 | [Open Course](subjects/advanced-database-it304.md) |
-| 💻 Operating Systems | IT303 | [Open Course](subjects/operating-systems-it303.md) |
+<br>
+
+*One place for everything your batch needs.*
+
+</div>
 
 ---
 
-## 📝 Tasks
+<div align="center">
 
-[📋 View All Tasks](tasks.md)
+## 📚 COURSES
+
+</div>
+
+<table align="center">
+<tr>
+
+<td align="center" width="180">
+
+### 🧠
+
+**Kotlin Language**
+
+`IT301`
+
+[**OPEN →**](subjects/kotlin-it301/)
+
+</td>
+
+<td align="center" width="180">
+
+### 📊
+
+**System Analysis**
+
+`IT302`
+
+[**OPEN →**](subjects/system-analysis-it302/)
+
+</td>
+
+<td align="center" width="180">
+
+### 🌐
+
+**Advanced Web**
+
+`IT351`
+
+[**OPEN →**](subjects/advanced-web-it351/)
+
+</td>
+
+<td align="center" width="180">
+
+### 🗄️
+
+**Advanced Database**
+
+`IT304`
+
+[**OPEN →**](subjects/advanced-database-it304/)
+
+</td>
+
+<td align="center" width="180">
+
+### 💻
+
+**Operating Systems**
+
+`IT303`
+
+[**OPEN →**](subjects/operating-systems-it303/)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📢 Announcements
+<div align="center">
 
-[📢 View Announcements](announcements.md)
+## 📁 BATCH GOOGLE DRIVE
 
----
+**Shared files • PDFs • Documents • Materials**
 
-## 📅 Schedule
+<br>
 
-[📅 View Schedule](schedule.md)
+[**📂 OPEN GOOGLE DRIVE →**](YOUR_GOOGLE_DRIVE_LINK_HERE)
 
----
-
-## 🔗 Useful Resources
-
-[🔗 View Resources](resources.md)
+<br><br>
 
 ---
 
-## 📁 Google Drive
+### `LEARN • ORGANIZE • STAY UPDATED`
 
-[📂 Open Batch Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE)
+**IT SEMI-SENIORS — 2026**
+
+</div>
