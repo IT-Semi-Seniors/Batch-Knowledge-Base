@@ -1,4 +1,4 @@
-# 📢 Advanced Web — Announcements
+# 🗓️ Advanced Database — Schedule & Notices
 
 [🏠 Batch Home](../../README.md)
 

@@ -23,7 +23,7 @@
 <br>
 
 <a href="announcements.md">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F7C7D4&height=150&text=%F0%9F%93%A2%20Announcements&fontSize=30&fontColor=171717&desc=Stay%20updated%20with%20the%20latest%20news%20and%20updates%20%E2%80%A2%20OPEN%20%E2%86%92&descSize=14&descColor=555555&fontAlignY=42&descAlignY=65" width="100%" alt="Announcements" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F7C7D4&height=150&text=%F0%9F%97%93%EF%B8%8F%20Schedule%20%26%20Notices&fontSize=27&fontColor=171717&desc=Lecture%20schedule%2C%20alerts%20and%20important%20updates%20%E2%80%A2%20OPEN%20%E2%86%92&descSize=14&descColor=555555&fontAlignY=42&descAlignY=65" width="100%" alt="Schedule & Notices" />
 </a>
 
 <br>

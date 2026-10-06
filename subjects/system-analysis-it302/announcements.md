@@ -1,4 +1,4 @@
-# 📢 System Analysis — Announcements
+# 🗓️ System Analysis — Schedule & Notices
 
 [🏠 Course Home](README.md)
 
