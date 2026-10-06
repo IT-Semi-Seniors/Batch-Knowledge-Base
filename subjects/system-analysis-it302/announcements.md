@@ -15,6 +15,14 @@ The System Analysis lecture takes place **every Tuesday**.
 
 ---
 
+## ⚠️ Important Notice
+
+> **The doctor does not allow students to enter the lecture after he arrives.**
+
+Please make sure to arrive **on time** and avoid being late.
+
+---
+
 ## 📌 Reminder
 
 - 📅 **Day:** Every Tuesday
