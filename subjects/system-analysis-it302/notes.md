@@ -23,7 +23,7 @@ The following pages are **not important** and can be skipped:
 
 ---
 
-## 🎥 Doctor's Lecture Videos
+## 🎥 Chapter 3 — Doctor's Lecture Videos
 
 | # | Link |
 |---|---|
