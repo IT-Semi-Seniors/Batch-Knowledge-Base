@@ -1,4 +1,4 @@
-# 🗓️ Operating Systems — Schedule & Notices
+# 📅 Operating Systems — Schedule and Announcements
 
 [🏠 Course Home](README.md)
 
