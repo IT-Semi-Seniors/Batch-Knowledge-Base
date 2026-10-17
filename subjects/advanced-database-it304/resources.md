@@ -7,6 +7,7 @@
 ## 📂 Course Materials
 
 All course materials, including lecture and section materials, are available on the Google Drive:
+the pdf "join lecture Start from slide 179:215"
 
 [📁 Course Materials — Google Drive](https://drive.google.com/drive/folders/1TNlG8xl96qoVD_qaBkt95ng1jZSvJLj1?usp=sharing)
 
