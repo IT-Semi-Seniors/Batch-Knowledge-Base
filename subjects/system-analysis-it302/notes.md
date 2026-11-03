@@ -32,3 +32,31 @@ The following pages are **not important** and can be skipped:
 | Lecture 6 | [▶️ Watch](https://muedueg-my.sharepoint.com/:v:/g/personal/mas_m4_mu_edu_eg/EXhpXwu91O5Fp3AAqrMaAXABpLy6B75--g_keFSV0M2oWw?e=qPGT0F) |
 
 ---
+---
+
+## 📖 Chapter 4 (Use Cases) — Completed
+
+- The doctor covered **Chapter 4** during the **third week**.
+- The file is already available on the [📂 Google Drive](https://drive.google.com/drive/folders/1V5jnWnrakcxEaDLX_gi2Y35tEt-jfF9v?usp=drive_link).
+
+---
+
+## ⚠️ Pages to Skip
+
+The following pages are **not important** and can be skipped:
+
+| Pages |
+|---|
+| 14,16,17|
+
+> 📌 Focus on the rest of the chapter — these pages are excluded.
+
+---
+
+## 🎥 Chapter 4 — Doctor's Lecture Videos
+
+| # | Link |
+|---|---|
+| Lecture 7 | [▶️ Watch](https://muedueg-my.sharepoint.com/:v:/g/personal/mas_m4_mu_edu_eg/EQRQbqTHP79OsfAcWTPuLMIBAInz2l_a5injnKlNOtyVgg?e=obSugt) |
+| Lecture 8 | [▶️ Watch](https://muedueg-my.sharepoint.com/:v:/g/personal/mas_m4_mu_edu_eg/Eb79DtcHeBhBh1Lg1Asab50B3V0oYbXLL8jP6pzSojVYUg?e=1BkayX) |
+---
