@@ -7,7 +7,8 @@
 ## 📘 First Lecture
 
 In the first lecture, we covered **Joins — Chapter 6**.
-
+THE MAIN Resource : https://drive.google.com/file/d/1wQFW_uiyMrQ_gEYzhrnH995xpB04TFnx/view?usp=sharing
+FROM : 179 - 215
 📌 All the related materials are available in the course resources.
 
 The playlists above are temporary collections for now.
