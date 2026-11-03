@@ -60,3 +60,32 @@ The following pages are **not important** and can be skipped:
 | Lecture 7 | [▶️ Watch](https://muedueg-my.sharepoint.com/:v:/g/personal/mas_m4_mu_edu_eg/EQRQbqTHP79OsfAcWTPuLMIBAInz2l_a5injnKlNOtyVgg?e=obSugt) |
 | Lecture 8 | [▶️ Watch](https://muedueg-my.sharepoint.com/:v:/g/personal/mas_m4_mu_edu_eg/Eb79DtcHeBhBh1Lg1Asab50B3V0oYbXLL8jP6pzSojVYUg?e=1BkayX) |
 ---
+
+---
+
+## 📖 Chapter 5 (Process Modeling) — Completed
+
+- The doctor covered **Chapter 5** during the **4th week**.
+- The file is already available on the [📂 Google Drive](https://drive.google.com/drive/folders/1V5jnWnrakcxEaDLX_gi2Y35tEt-jfF9v?usp=drive_link).
+
+---
+
+## ⚠️ Pages to Skip
+
+The following pages are **not important** and can be skipped:
+
+| Pages |
+|---|
+| 18|
+
+> 📌 Focus on the rest of the chapter — these pages are excluded.
+
+---
+
+## 🎥 Chapter 4 — Doctor's Lecture Videos
+
+| # | Link |
+|---|---|
+| Lecture 9 | [▶️ Watch](https://muedueg-my.sharepoint.com/:v:/g/personal/mas_m4_mu_edu_eg/Eed-X9m6kPpCkRbnUDFzd5YB3aMOqj3VD7IHeqZdFvYJsA?e=wmbVIF) |
+| Lecture 10 | [▶️ Watch](https://muedueg-my.sharepoint.com/:v:/g/personal/mas_m4_mu_edu_eg/EbrVNrKah8lAs20R6fchqXQBCVBIovhHuYbBzr2hxuAXhw?e=8IZIRK) |
+---
