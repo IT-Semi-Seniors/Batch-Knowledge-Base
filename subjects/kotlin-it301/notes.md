@@ -23,18 +23,27 @@ The covered lectures are:
 - [x] Lecture 3 — Functions
 - [x] Lecture 4 — Classes
 
-## 🇦🇪 Recommended Arabic Explanations
+## 🎥 Recommended Arabic YouTube Videos
 
-The following free, structured Arabic courses from Satr match the covered topics:
+The primary recommendation is this free Arabic YouTube course by **TheNewBaghdad**:
 
-| Lecture | Recommended content | Main points |
+👉 [▶️ Complete Kotlin Course — TheNewBaghdad](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ)
+
+| Lecture | YouTube path | Main points |
 |---|---|---|
-| Lecture 1 — Data Types | [Kotlin 101 — Data Types](https://satr.tuwaiq.edu.sa/course/vUlkLXyhLY/view) | Integers, decimals, strings, `Char`, `Boolean`, and type conversion |
-| Lecture 2 — Controlling Program Flow | [Kotlin 101 — Conditional Statements & Loops](https://satr.tuwaiq.edu.sa/course/vUlkLXyhLY/view) | `if`, `else`, `when`, `for`, `while`, `do while`, `break`, and `continue` |
-| Lecture 3 — Functions | [Kotlin 101 — Functions](https://satr.tuwaiq.edu.sa/course/vUlkLXyhLY/view) | Defining functions, parameters, and return values |
-| Lecture 4 — Classes | [Kotlin 102 — Classes & Objects](https://satr.tuwaiq.edu.sa/course/zvBftPQJVD/view) | Classes, objects, parameters, constructors, and `init` |
+| Lecture 1 — Data Types | [▶️ Data Types — تعريف متغيرات](https://www.youtube.com/watch?v=7774kq4EaY0) | Variables, data types, and type conversion |
+| Lecture 2 — Controlling Program Flow | [▶️ Simple IF](https://www.youtube.com/watch?v=n_jB1eaz6S0) · [▶️ when](https://www.youtube.com/watch?v=Yln5SfseuOw) · [▶️ For loop](https://www.youtube.com/watch?v=EOELR1pEq64) · [▶️ While / Do While](https://www.youtube.com/watch?v=IC0pwfmXQ6M) | Conditions, `when`, loops, `break`, and `continue` |
+| Lecture 3 — Functions | [▶️ Functions — الدوال](https://www.youtube.com/watch?v=MOVUGet4RaQ) | Defining and calling functions |
+| Lecture 4 — Classes | [▶️ Simple Class — الكلاسات](https://www.youtube.com/watch?v=SbXAJFPeLxE) · [▶️ Class Constructor](https://www.youtube.com/watch?v=mMC282rVwy0) | Classes, objects, and constructors |
 
-> 📌 In Kotlin 101, open the units named **Data types**, **Conditional statements**, **Loops**, and **Functions**. For Classes, continue with the first unit of Kotlin 102.
+> 📌 The playlist is useful for following the full sequence; the direct links above take you to the relevant videos immediately.
+
+## 🇦🇪 Alternative Arabic Source
+
+If you prefer a structured learning platform with quizzes, use these free Satr courses as an alternative:
+
+- [Kotlin 101 — Data Types, Control Flow, Loops, and Functions](https://satr.tuwaiq.edu.sa/course/vUlkLXyhLY/view)
+- [Kotlin 102 — Classes and Objects](https://satr.tuwaiq.edu.sa/course/zvBftPQJVD/view)
 
 ## 🎥 Midterm Playlist Progress
 
