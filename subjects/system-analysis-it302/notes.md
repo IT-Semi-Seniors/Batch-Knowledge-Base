@@ -89,3 +89,24 @@ The following pages are **not important** and can be skipped:
 | Lecture 9 | [▶️ Watch](https://muedueg-my.sharepoint.com/:v:/g/personal/mas_m4_mu_edu_eg/Eed-X9m6kPpCkRbnUDFzd5YB3aMOqj3VD7IHeqZdFvYJsA?e=wmbVIF) |
 | Lecture 10 | [▶️ Watch](https://muedueg-my.sharepoint.com/:v:/g/personal/mas_m4_mu_edu_eg/EbrVNrKah8lAs20R6fchqXQBCVBIovhHuYbBzr2hxuAXhw?e=8IZIRK) |
 ---
+---
+
+## 📖 Chapter 6 (Data Modeling) — Not Completed
+
+- The doctor covered part from **Chapter 6** during the **5th week**.
+- The file is already available on the [📂 Google Drive](https://drive.google.com/drive/folders/1V5jnWnrakcxEaDLX_gi2Y35tEt-jfF9v?usp=drive_link).
+
+---
+
+## ⚠️ Pages to Skip
+
+The following pages are **not important** and can be skipped:
+
+| Pages |
+|---|
+| 17,18,19|
+
+> 📌 Focus on the rest of the chapter — these pages are excluded.
+
+---
+
