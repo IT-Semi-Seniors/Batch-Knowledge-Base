@@ -16,14 +16,25 @@ We have completed the **first lecture**.
 
 ## 🧾 Midterm Content
 
-Use this checklist to record the confirmed Kotlin midterm scope:
+The covered lectures are:
 
-- [x] First lecture — completed
-- [ ] Midterm topic / lecture: `______________________________`
-- [ ] Midterm topic / lecture: `______________________________`
-- [ ] Other confirmed midterm topic: `______________________________`
+- [x] Lecture 1 — Data Types
+- [x] Lecture 2 — Controlling Program Flow
+- [x] Lecture 3 — Functions
+- [x] Lecture 4 — Classes
 
-> 📌 Add each topic as it is confirmed or covered in class.
+## 🇦🇪 Recommended Arabic Explanations
+
+The following free, structured Arabic courses from Satr match the covered topics:
+
+| Lecture | Recommended content | Main points |
+|---|---|---|
+| Lecture 1 — Data Types | [Kotlin 101 — Data Types](https://satr.tuwaiq.edu.sa/course/vUlkLXyhLY/view) | Integers, decimals, strings, `Char`, `Boolean`, and type conversion |
+| Lecture 2 — Controlling Program Flow | [Kotlin 101 — Conditional Statements & Loops](https://satr.tuwaiq.edu.sa/course/vUlkLXyhLY/view) | `if`, `else`, `when`, `for`, `while`, `do while`, `break`, and `continue` |
+| Lecture 3 — Functions | [Kotlin 101 — Functions](https://satr.tuwaiq.edu.sa/course/vUlkLXyhLY/view) | Defining functions, parameters, and return values |
+| Lecture 4 — Classes | [Kotlin 102 — Classes & Objects](https://satr.tuwaiq.edu.sa/course/zvBftPQJVD/view) | Classes, objects, parameters, constructors, and `init` |
+
+> 📌 In Kotlin 101, open the units named **Data types**, **Conditional statements**, **Loops**, and **Functions**. For Classes, continue with the first unit of Kotlin 102.
 
 ## 🎥 Midterm Playlist Progress
 
