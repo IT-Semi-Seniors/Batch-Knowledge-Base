@@ -110,3 +110,22 @@ The following pages are **not important** and can be skipped:
 
 ---
 
+## 🧾 Midterm Content
+
+The current midterm scope recorded in these notes is:
+
+- [x] Chapter 3 — Completed
+- [x] Chapter 4 — Use Cases — Completed
+- [x] Chapter 5 — Process Modeling — Completed
+- [ ] Chapter 6 — Data Modeling — Partially covered
+
+> 📌 Confirm the final midterm scope with the doctor if any additional chapters are announced.
+
+## 🎥 Midterm Playlist Progress
+
+👉 [▶️ Open the System Analysis Playlist](https://youtube.com/playlist?list=PLGDWivU3fTNk&si=AGwFlpecqFQpGUrH)
+
+- **Last video / lesson completed:** `______________________________`
+- **Timestamp or stopping point:** `______________________________`
+- **Notes:** `_____________________________________________________`
+
