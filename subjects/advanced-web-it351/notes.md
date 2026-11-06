@@ -21,9 +21,8 @@ We have completed the **first lecture**, which was a **review of HTML**.
 Use this checklist to keep the confirmed midterm scope in one place:
 
 - [x] HTML review — completed in the first lecture
-- [ ] CSS
+- [ ] CSS until Grid
 - [ ] JavaScript
-- [ ] Other confirmed midterm topic: `______________________________`
 
 > 📌 Update the checklist when the doctor confirms the final midterm scope.
 
