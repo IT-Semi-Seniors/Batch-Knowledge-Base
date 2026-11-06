@@ -28,6 +28,7 @@ Use this checklist to keep the confirmed midterm scope in one place:
 
 ## 🎥 Midterm Playlist Progress
 
-👉 [▶️ Open the HTML Video] [https://youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq&si=F73aky8NT6mLnHZm]
+👉 [▶️ Open the HTML Video] [https://youtu.be/q3yFo-t1ykw] 
+
 👉 [▶️ Open the CSS Playlist until : 64][https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe&si=Ta9BNxly5AogsZBc]
 
